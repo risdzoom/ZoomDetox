@@ -1,1 +1,1 @@
-// alert("Redirecting you to Zoom's newest feature...");
+alert("Redirecting you to read about Zoom's newest feature...");
