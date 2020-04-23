@@ -7,8 +7,19 @@ h1{
   color:#444444;
   font-size:3rem;
 }
-p{
+h2{
   font-size: 1.5rem;
+}
+
+.button {
+  background-color: #55A0F0;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 .zoomlogo{
@@ -26,8 +37,23 @@ p{
   margin: 5% 15% 15% 15%
 
 }
+.section2half{
+
+    margin:5rem 0rem 0rem 0rem;
+}
+
+.section3{
+  margin:5rem 0rem 15rem 0rem;
+}
+
+.section4{
+  margin:8rem 0rem 5rem 0rem;
+}
+
+
 
 .checklist{
+  margin-top: 5rem;
   display:flex;
   justify-content: space-evenly;
   align-items: center;
@@ -42,3 +68,123 @@ p{
   margin:0px 10px 20px 0px;
   float: left;
 }
+
+.benefits{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.benefits div{
+  padding-right: 3%;
+  text-align: center;
+}
+
+.benefits img{
+  transform:scale(.5);
+}
+
+.intro{
+  line-height: .5;
+  margin-bottom: 5rem;
+}
+
+.introbody{
+  margin-bottom: 6rem;
+}
+.introbody img{
+  transform: translateY(-5rem) scale(1.1);
+}
+
+.section2 img{
+  width: 100%;
+}
+.section2 p{
+  line-height: 1.5;
+  width: 75%;
+}
+
+
+.section5 {
+  margin:8rem 0rem 10rem 0rem;
+}
+.section5 p{
+  margin-left: 30rem;
+  line-height: 1.5;
+}
+.section5 h2{
+  margin-left: 30rem;
+}
+.section5 img{
+  transform: scale(1.1);
+  float:left;
+}
+
+.section6 {
+  margin:10rem 0rem 10rem 0rem;
+}
+
+.section6 img{
+  width: 25rem;
+  float:right;
+}
+
+.section6 p{
+  margin-right: 30rem;
+  line-height: 1.5;
+}
+
+  .section7 {
+    margin:8rem 0rem 10rem 0rem;
+  }
+  .section7 p{
+    margin-left: 30rem;
+    line-height: 1.5;
+  }
+  .section7 h2{
+    margin-left: 30rem;
+  }
+  .section7 img{
+    transform: scale(0.8) translateX(-3rem) translateY(-3rem);
+    float:left;
+  }
+
+
+  .section8 {
+    margin:10rem 0rem 10rem 0rem;
+  }
+
+  .section8 img{
+    width: 25rem;
+    float:right;
+  }
+
+  .section8 p{
+    margin-right: 30rem;
+    line-height: 1.5;
+  }
+
+  .section9 img{
+    width:100%;
+  }
+
+  .section9 p{
+    width:75%;
+    line-height: 1.5;
+  }
+
+
+  .section10 {
+    margin:10rem 0rem 10rem 0rem;
+  }
+
+  .section10 img{
+    width: 25rem;
+    transform:translateY(-1rem);
+    float:right;
+  }
+
+  .section10 p{
+    margin-right: 30rem;
+    line-height: 1.5;
+  }
